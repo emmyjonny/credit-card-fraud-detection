@@ -1,3 +1,11 @@
+## Key Features
+
+• Fraud detection using supervised machine learning  
+• Handles highly imbalanced datasets  
+• Multiple models: Logistic Regression, Random Forest, XGBoost, Neural Network  
+• Model evaluation using ROC-AUC, Precision, Recall, and F1-score  
+• Real-time monitoring dashboard using Streamlit
+
 # Financial Fraud Detection System
 
 A machine learning-based system for detecting fraudulent financial transactions using supervised learning techniques.
@@ -49,4 +57,5 @@ pip install -r requirements.txt
 - Recall
 - F1-score
 - ROC-AUC
+
 - Confusion Matrix 
