@@ -1,3 +1,15 @@
+# Credit Card Fraud Detection System
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://credit-card-fraud-detection-klcjftpzqjodnnkuvnrynv.streamlit.app/)
+
+## Live Demo
+Try the live application here:  
+https://credit-card-fraud-detection-klcjftpzqjodnnkuvnrynv.streamlit.app/
+
+This interactive web app allows users to upload transaction datasets and detect fraudulent transactions using machine learning techniques.
+
+---
+
 ## Key Features
 
 • Fraud detection using supervised machine learning  
@@ -59,3 +71,4 @@ pip install -r requirements.txt
 - ROC-AUC
 
 - Confusion Matrix 
+
